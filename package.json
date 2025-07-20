@@ -1,0 +1,13 @@
+{
+  "name": "smart-goal-planner-backend",
+  "version": "1.0.0",
+  "description": "Backend for Smart Goal Planner using JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0"
+  }
+}
+
